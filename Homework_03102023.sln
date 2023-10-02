@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_03102023", "Homework_03102023\Homework_03102023.csproj", "{4D0C8786-A0AF-41DF-9650-3275A5A8350E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadWordsCheck", "Homework_03102023\BadWordsCheck.csproj", "{4D0C8786-A0AF-41DF-9650-3275A5A8350E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_03102033Tests", "BadWordsCheckerTests\Homework_03102033Tests.csproj", "{FABBB6A7-447B-40F6-8078-2F5BA8D53029}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadWordsCheckerTests", "BadWordsCheckerTests\BadWordsCheckerTests.csproj", "{FABBB6A7-447B-40F6-8078-2F5BA8D53029}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
